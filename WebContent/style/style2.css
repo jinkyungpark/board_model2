@@ -1,0 +1,38 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+html, body {
+  	font:13px 'Nanum Gothic', sans-serif;
+}
+.tr_title{
+	background:#FFBB00;
+	text-align:center;	
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+.top_table{
+	width:800px;
+	margin-left: auto;
+    margin-right: auto;
+	padding:5px;
+}
+th,td{
+	padding:10px;
+}
+.tr_top{
+	background:#F6F6F6;
+	width:60px;
+}
+.td_align{
+	text-align:center;
+}
+.bottom_table{
+	width:600px;
+	margin-left: auto;
+    margin-right: auto;
+    background:white;
+}
+caption{
+	font-size:20px;
+	font-weight:bold; 
+}

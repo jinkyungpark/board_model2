@@ -1,0 +1,31 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+html, body{
+  	font:13px 'Nanum Gothic', sans-serif;
+}
+.td_left{
+			width:100px;			
+			background:#FFBB00;
+			text-align:center;			
+	}
+.td_right{
+	background:#FAECC5;
+}
+.commandCell{
+	text-align:center;
+	background:#F0CA61;
+}
+table{
+	width:600px;
+	margin-left: auto;
+    margin-right: auto;
+	padding:5px;
+}
+.file_td{
+	background:#FAECC5;
+	height:25px;
+}
+.button_cell{
+	text-align:center;
+	background:#F0CA61;
+	height:30px;
+}
